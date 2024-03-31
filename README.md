@@ -1,4 +1,4 @@
-# House-M.D.-analysed
+# House MD analysed
 ## Aim
 The primary aim of this project was to create a poster containing visualization based on 'House M.D.'. However, after looking for datasets long enough, we found out that there really are no `.csv` files containing diagnoses from the series. 
 Therefore, we created this repository for all of House M.D. and data science enthusiasts. 
