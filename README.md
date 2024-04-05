@@ -19,3 +19,5 @@ Below you can find multiple datasets containing different information about the 
 |`diagnoses.xlsm`| List of diagnoses in each of the episodes. Obtained from https://house.fandom.com/wiki/List_of_medical_diagnoses.|
 |`diagnosesi.csv`| `diagnoses.xlsm` divided into 8 files; for $i \in [8]$, each file contains diagnoses in each season. These have been then manually corrected, so as to match the ICD names from `icd_codes`.|
 |`organs.csv`| Manually created. Contains ICD code, name and organs affected by each diagnosed disease, matching those in `hgFemale_list` from `gganatogram`. IMPORTANT: be aware that this file encoding (unlike UTF-8 used in the other files) is UTF-16 (due to problems with names such as Behçet's disease).|
+
+in collaboration with @nataliag1
