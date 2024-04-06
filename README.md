@@ -1,5 +1,5 @@
 # House MD analysed
-** In collaboration with [@nataliag1](https://github.com/nataliag1). **
+**In collaboration with [@nataliag1](https://github.com/nataliag1).**
 ## Aim
 The primary aim of this project was to create a poster containing visualization based on *House MD*. However, after looking for datasets long enough, we found out that there really are no `.csv` files containing diagnoses from the series. 
 Therefore, we created this repository for all of *House MD* and data science enthusiasts.
