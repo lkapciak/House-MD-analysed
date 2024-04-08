@@ -1,11 +1,18 @@
 # House MD analysed
-**In collaboration with [@nataliag1](https://github.com/nataliag1).**
+**In collaboration with [@nataliag1](https://github.com/nataliag1)**
 ## Aim
 The primary aim of this project was to create a poster containing visualization based on *House MD*. However, after looking for datasets long enough, we found out that there really are no `.csv` files containing diagnoses from the series. 
 Therefore, we created this repository for all of *House MD* and data science enthusiasts.
 Below you can find multiple datasets containing different information about the series. Moreover, `house_md_data.csv` contains most of it within a single file. Finally, you can find our poster with visualization of the data.
 
+## Poster
+
+![final_poster](/poster/final_poster_svg.svg)
+[PDF format](/poster/final_poster.pdf)
+
 ## Datasets used
+
+To access the files, navigate to [data](./data).
 |File name|Description|
 | --- | --- |
 |`house_md_data.csv`|Complete dataset, created in the process of creating the poster from data frame `todo`. Contains almost all of the data about each episode from the other files.|
